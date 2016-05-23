@@ -1,0 +1,9 @@
+car:118.55:100
+car:125.9:100
+car:133.25:100
+#<RealItem:4.85:0
+#<RealItem:4.85:0
+#<RealItem:4.85:0
+#<RealItem:4.85:0
+#<RealItem:4.85:0
+#<RealItem:4.85:0
